@@ -88,6 +88,9 @@
     <option>West Bengal</option>
   </select>
   <br><br><br>
+
+
+<p>This is the new Modified Home page.</p>
   <button onclick="openState()">Open</button>
 
 </body>
